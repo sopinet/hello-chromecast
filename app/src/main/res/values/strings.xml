@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hola Chromecast</string>
+    <string name="app_id"></string>
+    <string name="namespace">urn:x-cast:com.sopinet.chromecasthello</string>
+    <string name="message_to_cast">Mensaje a enviar ...</string>
+    <string name="media_route_menu_title">Conectar a ...</string>
+    <string name="instructions">Háblame</string>
+</resources>
