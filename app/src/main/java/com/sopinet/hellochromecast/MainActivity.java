@@ -253,8 +253,6 @@ public class MainActivity extends ActionBarActivity {
                                         } catch (IOException e) {
                                             Log.e(TAG,"Exception while creating channel", e);
                                         }
-                                        // Establece las instrucciones iniciales en el receptor
-                                        sendMessage(getString(R.string.instructions));
                                     } else {
                                         Log.e(TAG, "application could not launch");
                                         teardown();
