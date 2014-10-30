@@ -10,7 +10,6 @@ Requisitos
 - Android SDK
 
 Instalar desde el SDK Manager
------------------------------
 
   - Android Support Libraries 19.0.1 o posterior.
   - Google Play services SDK 4.2 o posterior.
