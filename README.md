@@ -1,6 +1,9 @@
 hello-chromecast
 ================
 
+Ejemplo de comunicación con chromecast.
+
+
 Requisitos
 ----------
 
@@ -21,4 +24,7 @@ Dependencias Gradle
 - android-support-v7-mediarouter 19.0.1
 - google-play-services_lib
 
+
+Otro ejemplo
+------------
 
