@@ -94,7 +94,7 @@
         var box=document.getElementById("box");
         //Quitamos el primer elemento si se ha sobrepasado el limite de mensajes
         if(configuration.i>configuration.limit-1){
-          box.removeChild(document.getElementById((i%limit).toString()));
+          box.removeChild(document.getElementById((configuration.i%configuration.limit).toString()));
         }
         //se crea un nuevo mensaje
         var div = document.createElement("DIV");
